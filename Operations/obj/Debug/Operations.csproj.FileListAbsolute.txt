@@ -1,0 +1,5 @@
+D:\projects\Calculator\Operations\bin\Debug\Operations.dll
+D:\projects\Calculator\Operations\bin\Debug\Operations.pdb
+D:\projects\Calculator\Operations\obj\Debug\Operations.dll
+D:\projects\Calculator\Operations\obj\Debug\Operations.pdb
+D:\projects\Calculator\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
